@@ -1,0 +1,9 @@
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Home.Appliance.Store.Windows\obj\Debug\net5.0-windows\Home.Appliance.Store.Windows.csproj.AssemblyReference.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Home.Appliance.Store.Windows\obj\Debug\net5.0-windows\Home.Appliance.Store.Windows.Infrastructure.Base.Forms.BaseForm.resources
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Home.Appliance.Store.Windows\obj\Debug\net5.0-windows\Home.Appliance.Store.Windows.Views.MainForm.resources
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Home.Appliance.Store.Windows\obj\Debug\net5.0-windows\Home.Appliance.Store.Windows.Views.ProductsForm.resources
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Home.Appliance.Store.Windows\obj\Debug\net5.0-windows\Home.Appliance.Store.Windows.csproj.GenerateResource.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Home.Appliance.Store.Windows\obj\Debug\net5.0-windows\Home.Appliance.Store.Windows.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Home.Appliance.Store.Windows\obj\Debug\net5.0-windows\Home.Appliance.Store.Windows.AssemblyInfoInputs.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Home.Appliance.Store.Windows\obj\Debug\net5.0-windows\Home.Appliance.Store.Windows.AssemblyInfo.cs
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Home.Appliance.Store.Windows\obj\Debug\net5.0-windows\Home.Appliance.Store.Windows.csproj.CoreCompileInputs.cache

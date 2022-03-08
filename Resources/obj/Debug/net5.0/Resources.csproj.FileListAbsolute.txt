@@ -1,0 +1,14 @@
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Resources\bin\Debug\net5.0\Resources.deps.json
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Resources\bin\Debug\net5.0\Resources.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Resources\bin\Debug\net5.0\ref\Resources.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Resources\bin\Debug\net5.0\Resources.pdb
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Resources\obj\Debug\net5.0\Resources.csproj.AssemblyReference.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Resources\obj\Debug\net5.0\Resources.DataDictionary.resources
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Resources\obj\Debug\net5.0\Resources.csproj.GenerateResource.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Resources\obj\Debug\net5.0\Resources.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Resources\obj\Debug\net5.0\Resources.AssemblyInfoInputs.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Resources\obj\Debug\net5.0\Resources.AssemblyInfo.cs
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Resources\obj\Debug\net5.0\Resources.csproj.CoreCompileInputs.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Resources\obj\Debug\net5.0\Resources.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Resources\obj\Debug\net5.0\ref\Resources.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\HOME_APPLIANCE_STORE\Resources\obj\Debug\net5.0\Resources.pdb

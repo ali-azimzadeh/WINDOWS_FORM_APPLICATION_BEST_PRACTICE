@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Windows\Forms\Buttons\BitmapButton\BitmapButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\Buttons\DefaultButton\Button.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\Buttons\GraphicalButton\GraphicalButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\CircularForm\CircularForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\DefaultForm\Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\GradientForm\GradientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\GrowIcon\GrowIcon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\Label\Label.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\LinkLabel\LinkLable.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\ListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\LookupData\LookupData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\LookupData\LookupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\Menus\Context\ContextMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\Menus\Slippery\SlipperyMenuItems.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\Menus\Slippery\SlipperyMenuItemsBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\Menus\Strip\MenuStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\Menus\Vertical\VerticalMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\PersianDateBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\SplashForm\Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\Spliter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\ToolStripMenuItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\Toolbar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\ToolTip\ToolTip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Windows\Forms\UserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
